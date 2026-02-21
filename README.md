@@ -1,2 +1,3 @@
-# smart-api-service-32r3
+# Smart Api Service 32R3
+
 A REST API service for modern development workflows.
